@@ -1,5 +1,5 @@
 #nginx
-#nacos/nacos-server:2.2.3
+#nacos/nacos-server:latest
 mysql:5.7
 redis:latest
 #支持私库
